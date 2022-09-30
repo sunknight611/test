@@ -6,6 +6,5 @@ using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "test1" <<endl;
     cout<<"test2"<<endl;
 }
